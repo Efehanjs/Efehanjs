@@ -1,5 +1,10 @@
-<h1 align="center">Hello there 👋 </h1>
 <h3 align="center">My name is Efehan Im development Java</h3>
+
+- 🔭 I’m currently working on [MinamorAntiCrash](https://github.com/Efehanjs/MinamorAntiCrash)
+
+- 🌱 I’m currently learning **C#, C++**
+
+- 📫 How to reach me **Discord: Efehan#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
