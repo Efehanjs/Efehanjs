@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋 deneme</h1>
+<h1 align="center">Hello there 👋 </h1>
 <h3 align="center">My name is Efehan Im development Java</h3>
 
 <h3 align="left">Connect with me:</h3>
